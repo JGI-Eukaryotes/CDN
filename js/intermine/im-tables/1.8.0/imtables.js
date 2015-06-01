@@ -604,7 +604,7 @@
       icons: 'glyphicons'
     },
     CDN: {
-      server: 'http://cdn.intermine.org',
+      server: 'http://phytozome.jgi.doe.gov/intermine/cdn',
       tests: {
         fontawesome: /font-awesome/,
         glyphicons: /bootstrap-icons/

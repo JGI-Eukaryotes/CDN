@@ -1,1 +1,1 @@
-/home/alex/projects/javascript/CDN/js/intermine/imjs/3.7.2
+3.7.2

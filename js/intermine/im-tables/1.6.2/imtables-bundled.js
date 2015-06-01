@@ -19619,7 +19619,7 @@ Thu Jun 14 13:18:14 BST 2012
 
   if (!IS_NODE) {
     if (!HAS_JSON) {
-      jQuery.getScript('http://cdn.intermine.org/js/json3/3.2.2/json3.min.js');
+      jQuery.getScript('http://phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js');
     }
     if (Object.keys == null) {
       hasOwnProperty = Object.prototype.hasOwnProperty;
@@ -24099,7 +24099,7 @@ Thu Jun 14 13:18:14 BST 2012
       icons: 'fontawesome'
     },
     CDN: {
-      server: 'http://cdn.intermine.org',
+      server: 'http://phytozome.jgi.doe.gov/intermine/cdn',
       tests: {
         fontawesome: /font-awesome/,
         glyphicons: /bootstrap-icons/
