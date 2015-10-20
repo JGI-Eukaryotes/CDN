@@ -628,7 +628,7 @@
     TableWidgets: ['Pagination', 'PageSizer', 'TableSummary', 'ManagementTools', 'ScrollBar'],
     CellCutoff: 100,
     CDN: {
-      server: 'https://phytozome.jgi.doe.gov/intermine/cdn',
+      server: '/intermine/cdn',
       resources: {
         prettify: ['/js/google-code-prettify/latest/prettify.js', '/js/google-code-prettify/latest/prettify.css'],
         d3: '/js/d3/3.0.6/d3.v3.min.js',

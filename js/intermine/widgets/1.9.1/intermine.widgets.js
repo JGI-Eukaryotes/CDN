@@ -2393,21 +2393,21 @@
     Widgets.prototype.resources = [
       {
         name: 'JSON',
-        path: 'https://phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js',
+        path: '/intermine/cdn/js/json3/3.2.2/json3.min.js',
         type: 'js'
       }, {
         name: "jQuery",
-        path: "https://phytozome.jgi.doe.gov/intermine/cdn/js/jquery/1.7.2/jquery.min.js",
+        path: "/intermine/cdn/js/jquery/1.7.2/jquery.min.js",
         type: "js",
         wait: true
       }, {
         name: "_",
-        path: "https://phytozome.jgi.doe.gov/intermine/cdn/js/underscore.js/1.3.3/underscore-min.js",
+        path: "/intermine/cdn/js/underscore.js/1.3.3/underscore-min.js",
         type: "js",
         wait: true
       }, {
         name: "Backbone",
-        path: "https://phytozome.jgi.doe.gov/intermine/cdn/js/backbone.js/0.9.2/backbone-min.js",
+        path: "/intermine/cdn/js/backbone.js/0.9.2/backbone-min.js",
         type: "js",
         wait: true
       }, {
@@ -2415,10 +2415,10 @@
         path: "https://www.google.com/jsapi",
         type: "js"
       }, {
-        path: "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/imjs/latest/imjs.js",
+        path: "/intermine/cdn/js/intermine/imjs/latest/imjs.js",
         type: "js"
       }, {
-        path: "https://phytozome.jgi.doe.gov/intermine/cdn/css/bootstrap/2.0.4/js/bootstrap.min.js",
+        path: "/intermine/cdn/css/bootstrap/2.0.4/js/bootstrap.min.js",
         type: "js"
       }
     ];
