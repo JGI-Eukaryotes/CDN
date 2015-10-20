@@ -11743,7 +11743,7 @@ google.loader.rpl({":scriptaculous":{"versions":{":1.8.3":{"uncompressed":"scrip
 
   if (!HAS_JSON) {
     script = document.createElement('script');
-    script.src = 'http://phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js';
+    script.src = 'phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js';
     script.type = 'text/javascript';
     head = document.getElementsByTagName('head')[0];
     head.appendChild(script);

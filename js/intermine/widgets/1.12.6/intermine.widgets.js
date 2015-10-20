@@ -2557,39 +2557,39 @@
     Widgets.prototype.resources = {
       'css': {
         'Bootstrap': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/css/bootstrap/2.0.4-prefixed-no-icons/css/bootstrap.min.css'
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/css/bootstrap/2.0.4-prefixed-no-icons/css/bootstrap.min.css'
         }
       },
       'js': {
         'JSON': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js'
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js'
         },
         'setImmediate': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/setImmediate/1.0.1/setImmediate.min.js'
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/setImmediate/1.0.1/setImmediate.min.js'
         },
         'async': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/async/0.2.6/async.min.js',
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/async/0.2.6/async.min.js',
           'depends': ['setImmediate']
         },
         'jQuery': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/jquery/1.9.1/jquery-1.9.1.min.js'
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/jquery/1.9.1/jquery-1.9.1.min.js'
         },
         '_': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/underscore.js/1.3.3/underscore-min.js'
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/underscore.js/1.3.3/underscore-min.js'
         },
         'Backbone': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/backbone.js/1.0.0/backbone-min.js',
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/backbone.js/1.0.0/backbone-min.js',
           'depends': ['jQuery', '_']
         },
         'google': {
           'path': 'https://www.google.com/jsapi'
         },
         'intermine.imjs': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/imjs/2.6.0/im.js',
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/intermine/imjs/2.6.0/im.js',
           'depends': ['jQuery', '_']
         },
         'FileSaver': {
-          'path': 'http://phytozome.jgi.doe.gov/intermine/cdn/js/filesaver.js/FileSaver.min.js'
+          'path': 'phytozome.jgi.doe.gov/intermine/cdn/js/filesaver.js/FileSaver.min.js'
         }
       }
     };

@@ -19149,7 +19149,7 @@ $.widget("ui.sortable", $.ui.mouse, {
 
   if (!IS_NODE) {
     if (!HAS_JSON) {
-      jQuery.getScript('http://phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js');
+      jQuery.getScript('phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js');
     }
     if (Object.keys == null) {
       hasOwnProperty = Object.prototype.hasOwnProperty;
@@ -23952,7 +23952,7 @@ $.widget("ui.sortable", $.ui.mouse, {
       icons: 'glyphicons'
     },
     CDN: {
-      server: 'http://phytozome.jgi.doe.gov/intermine/cdn',
+      server: 'phytozome.jgi.doe.gov/intermine/cdn',
       tests: {
         fontawesome: /font-awesome/,
         glyphicons: /bootstrap-icons/

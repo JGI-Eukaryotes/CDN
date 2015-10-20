@@ -14357,7 +14357,7 @@ return Q;
   NOT_ENUM = ['toString', 'toLocaleString', 'valueOf', 'hasOwnProperty', 'isPrototypeOf', 'propertyIsEnumerable', 'constructor'];
 
   if (!HAS_JSON) {
-    jQuery.getScript('http://phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js');
+    jQuery.getScript('phytozome.jgi.doe.gov/intermine/cdn/js/json3/3.2.2/json3.min.js');
   }
 
   if (Object.keys == null) {
