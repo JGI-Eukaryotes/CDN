@@ -8027,7 +8027,7 @@ $.widget("ui.sortable", $.ui.mouse, {
       icons: 'glyphicons'
     },
     CDN: {
-      server: 'http://phytozome.jgi.doe.gov/intermine/cdn',
+      server: 'https://phytozome.jgi.doe.gov/intermine/cdn',
       tests: {
         fontawesome: /font-awesome/,
         glyphicons: /bootstrap-icons/

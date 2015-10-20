@@ -4,34 +4,34 @@
 
   paths = {
     "widgets": {
-      "latest": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/latest/intermine.widgets.js",
-      "1.0.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.0.0/intermine.widgets.js",
-      "1.1.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.0/intermine.widgets.js",
-      "1.1.7": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.7/intermine.widgets.js",
-      "1.1.8": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.8/intermine.widgets.js",
-      "1.1.9": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.9/intermine.widgets.js",
-      "1.1.10": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.10/intermine.widgets.js",
-      "1.2.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.2.0/intermine.widgets.js",
-      "1.2.1": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.2.1/intermine.widgets.js",
-      "1.3.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.3.0/intermine.widgets.js",
-      "1.4.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.4.0/intermine.widgets.js",
-      "1.4.1": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.4.1/intermine.widgets.js",
-      "1.4.2": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.4.2/intermine.widgets.js",
-      "1.6.7": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.6.7/intermine.widgets.js",
-      "1.6.8": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.6.8/intermine.widgets.js",
-      "1.7.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.7.0/intermine.widgets.js",
-      "1.7.3": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.7.3/intermine.widgets.js",
-      "1.8.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.0/intermine.widgets.js",
-      "1.8.1": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.1/intermine.widgets.js",
-      "1.8.2": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.2/intermine.widgets.js",
-      "1.8.3": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.3/intermine.widgets.js",
-      "1.9.1": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.9.1/intermine.widgets.js",
-      "1.10.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.10.0/intermine.widgets.js",
-      "1.11.2": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.11.2/intermine.widgets.js"
+      "latest": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/latest/intermine.widgets.js",
+      "1.0.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.0.0/intermine.widgets.js",
+      "1.1.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.0/intermine.widgets.js",
+      "1.1.7": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.7/intermine.widgets.js",
+      "1.1.8": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.8/intermine.widgets.js",
+      "1.1.9": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.9/intermine.widgets.js",
+      "1.1.10": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.1.10/intermine.widgets.js",
+      "1.2.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.2.0/intermine.widgets.js",
+      "1.2.1": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.2.1/intermine.widgets.js",
+      "1.3.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.3.0/intermine.widgets.js",
+      "1.4.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.4.0/intermine.widgets.js",
+      "1.4.1": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.4.1/intermine.widgets.js",
+      "1.4.2": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.4.2/intermine.widgets.js",
+      "1.6.7": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.6.7/intermine.widgets.js",
+      "1.6.8": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.6.8/intermine.widgets.js",
+      "1.7.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.7.0/intermine.widgets.js",
+      "1.7.3": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.7.3/intermine.widgets.js",
+      "1.8.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.0/intermine.widgets.js",
+      "1.8.1": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.1/intermine.widgets.js",
+      "1.8.2": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.2/intermine.widgets.js",
+      "1.8.3": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.8.3/intermine.widgets.js",
+      "1.9.1": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.9.1/intermine.widgets.js",
+      "1.10.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.10.0/intermine.widgets.js",
+      "1.11.2": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/widgets/1.11.2/intermine.widgets.js"
     },
     "report-widgets": {
-      "latest": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/report-widgets/latest/intermine.report-widgets.js",
-      "0.7.0": "http://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/report-widgets/0.7.0/intermine.report-widgets.js"
+      "latest": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/report-widgets/latest/intermine.report-widgets.js",
+      "0.7.0": "https://phytozome.jgi.doe.gov/intermine/cdn/js/intermine/report-widgets/0.7.0/intermine.report-widgets.js"
     }
   };
 
