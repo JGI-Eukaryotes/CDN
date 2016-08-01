@@ -4,34 +4,34 @@
 
   paths = {
     "widgets": {
-      "latest": "/intermine/cdn/js/intermine/widgets/latest/intermine.widgets.js",
-      "1.0.0": "/intermine/cdn/js/intermine/widgets/1.0.0/intermine.widgets.js",
-      "1.1.0": "/intermine/cdn/js/intermine/widgets/1.1.0/intermine.widgets.js",
-      "1.1.7": "/intermine/cdn/js/intermine/widgets/1.1.7/intermine.widgets.js",
-      "1.1.8": "/intermine/cdn/js/intermine/widgets/1.1.8/intermine.widgets.js",
-      "1.1.9": "/intermine/cdn/js/intermine/widgets/1.1.9/intermine.widgets.js",
-      "1.1.10": "/intermine/cdn/js/intermine/widgets/1.1.10/intermine.widgets.js",
-      "1.2.0": "/intermine/cdn/js/intermine/widgets/1.2.0/intermine.widgets.js",
-      "1.2.1": "/intermine/cdn/js/intermine/widgets/1.2.1/intermine.widgets.js",
-      "1.3.0": "/intermine/cdn/js/intermine/widgets/1.3.0/intermine.widgets.js",
-      "1.4.0": "/intermine/cdn/js/intermine/widgets/1.4.0/intermine.widgets.js",
-      "1.4.1": "/intermine/cdn/js/intermine/widgets/1.4.1/intermine.widgets.js",
-      "1.4.2": "/intermine/cdn/js/intermine/widgets/1.4.2/intermine.widgets.js",
-      "1.6.7": "/intermine/cdn/js/intermine/widgets/1.6.7/intermine.widgets.js",
-      "1.6.8": "/intermine/cdn/js/intermine/widgets/1.6.8/intermine.widgets.js",
-      "1.7.0": "/intermine/cdn/js/intermine/widgets/1.7.0/intermine.widgets.js",
-      "1.7.3": "/intermine/cdn/js/intermine/widgets/1.7.3/intermine.widgets.js",
-      "1.8.0": "/intermine/cdn/js/intermine/widgets/1.8.0/intermine.widgets.js",
-      "1.8.1": "/intermine/cdn/js/intermine/widgets/1.8.1/intermine.widgets.js",
-      "1.8.2": "/intermine/cdn/js/intermine/widgets/1.8.2/intermine.widgets.js",
-      "1.8.3": "/intermine/cdn/js/intermine/widgets/1.8.3/intermine.widgets.js",
-      "1.9.1": "/intermine/cdn/js/intermine/widgets/1.9.1/intermine.widgets.js",
-      "1.10.0": "/intermine/cdn/js/intermine/widgets/1.10.0/intermine.widgets.js",
-      "1.11.2": "/intermine/cdn/js/intermine/widgets/1.11.2/intermine.widgets.js"
+      "latest": "/js/intermine/widgets/latest/intermine.widgets.js",
+      "1.0.0": "/js/intermine/widgets/1.0.0/intermine.widgets.js",
+      "1.1.0": "/js/intermine/widgets/1.1.0/intermine.widgets.js",
+      "1.1.7": "/js/intermine/widgets/1.1.7/intermine.widgets.js",
+      "1.1.8": "/js/intermine/widgets/1.1.8/intermine.widgets.js",
+      "1.1.9": "/js/intermine/widgets/1.1.9/intermine.widgets.js",
+      "1.1.10": "/js/intermine/widgets/1.1.10/intermine.widgets.js",
+      "1.2.0": "/js/intermine/widgets/1.2.0/intermine.widgets.js",
+      "1.2.1": "/js/intermine/widgets/1.2.1/intermine.widgets.js",
+      "1.3.0": "/js/intermine/widgets/1.3.0/intermine.widgets.js",
+      "1.4.0": "/js/intermine/widgets/1.4.0/intermine.widgets.js",
+      "1.4.1": "/js/intermine/widgets/1.4.1/intermine.widgets.js",
+      "1.4.2": "/js/intermine/widgets/1.4.2/intermine.widgets.js",
+      "1.6.7": "/js/intermine/widgets/1.6.7/intermine.widgets.js",
+      "1.6.8": "/js/intermine/widgets/1.6.8/intermine.widgets.js",
+      "1.7.0": "/js/intermine/widgets/1.7.0/intermine.widgets.js",
+      "1.7.3": "/js/intermine/widgets/1.7.3/intermine.widgets.js",
+      "1.8.0": "/js/intermine/widgets/1.8.0/intermine.widgets.js",
+      "1.8.1": "/js/intermine/widgets/1.8.1/intermine.widgets.js",
+      "1.8.2": "/js/intermine/widgets/1.8.2/intermine.widgets.js",
+      "1.8.3": "/js/intermine/widgets/1.8.3/intermine.widgets.js",
+      "1.9.1": "/js/intermine/widgets/1.9.1/intermine.widgets.js",
+      "1.10.0": "/js/intermine/widgets/1.10.0/intermine.widgets.js",
+      "1.11.2": "/js/intermine/widgets/1.11.2/intermine.widgets.js"
     },
     "report-widgets": {
-      "latest": "/intermine/cdn/js/intermine/report-widgets/latest/intermine.report-widgets.js",
-      "0.7.0": "/intermine/cdn/js/intermine/report-widgets/0.7.0/intermine.report-widgets.js"
+      "latest": "/js/intermine/report-widgets/latest/intermine.report-widgets.js",
+      "0.7.0": "/js/intermine/report-widgets/0.7.0/intermine.report-widgets.js"
     }
   };
 
